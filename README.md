@@ -7,3 +7,5 @@
 - Releases werden automatisch vom CI-Workflow des TimeManager-Repos veröffentlicht (`v*`-Tags).
 
 **Installation:** DMG laden, öffnen, App in den Ordner „Programme" ziehen.
+
+*Hinweis: Die von GitHub automatisch angezeigten „Source code"-Archive an jedem Release enthalten nur dieses README — der Quellcode der App ist nicht Teil dieses Repos.*
